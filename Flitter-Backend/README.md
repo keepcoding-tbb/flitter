@@ -2,7 +2,7 @@
 This is a backend repository for a Twitter clone, [KeepCoding-Glovo Women in Tech](https://keepcoding.io/nuestros-bootcamps/mujeres-glovo/ "KC Bootcamp") final project
 The aim of this project is to put everything we've learnt during the bootcamp into practice and simulate a sprint where we develop a project to a deadline. 
 
-Please ensure you're setup on the [frontend](https://github.com/LuciaSaenz/front-final-project "frontend") of this project
+Please ensure you're setup on the [frontend](https://github.com/keepcoding-tbb/flitter "frontend") of this project
 
 ## Requirements
 ** Please make sure to have installed node.js at the version 16.13.1.**
@@ -10,7 +10,7 @@ Please ensure you're setup on the [frontend](https://github.com/LuciaSaenz/front
 ## Setup
 Execute the following: 
 ```
-git clone https://github.com/criSiles/Flitter-BackEnd.git
+git clone https://github.com/keepcoding-tbb/flitter.git
 cd Flitter-Backend
 npm i 
 ```
@@ -25,13 +25,6 @@ npm run dev
 - JWT
 - JEST
 
-## Authors
-- [Carmen Rocío Romero García](https://github.com/RocioRDev)
-- [Laura Luz Perote](https://github.com/perotelazarolaura)
-- [Cristina Siles Vega](https://github.com/criSiles)
-- [Olivia Carroll](https://github.com/OliviaCarroll)
-- [Grace Vivian](https://github.com/gracevivian04)
-- [Lucía Saenz](https://github.com/LuciaSaenz)
 
 ### Fleets
 **For list of all the fleets, you can access from this endpoint** ```/api/fleets```

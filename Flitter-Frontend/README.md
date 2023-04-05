@@ -30,8 +30,8 @@ _for authorised, registered users_
 8. **Remove Kudos to the author of a publication:** As a member of the platform I want to be able to remove the kudos I had previously awarded to a publication.
 
 ## Getting Started:
-** Please ensure you are also setup on the [backend](https://github.com/criSiles/Flitter-BackEnd "backend") for this project**
-- git clone the [repository](https://github.com/LuciaSaenz/Front-Flitter "repo"), then:
+** Please ensure you are also setup on the [backend](https://github.com/keepcoding-tbb/flitter "backend") for this project**
+- git clone the [repository](https://github.com/keepcoding-tbb/flitter "repo"), then:
 
 ### Project setup
 ```
